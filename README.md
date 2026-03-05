@@ -1,1 +1,3 @@
-# verilog-4bit-alu
+## Simulation Waveform
+
+![waveform](docs/waveform.png)
